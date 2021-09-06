@@ -13,8 +13,6 @@
 
         // shortcode file
         require_once( 'shortcodes/form-shortcode.php' );
-        // functions.php file
-        require_once( 'functions.php' );
 
     }
     add_action( 'init', 'easy_contact_form_func' );
