@@ -16,5 +16,7 @@
         // functions.php file
         require_once( 'functions.php' );
 
+        // change something
+
     }
     add_action( 'init', 'easy_contact_form_func' );
